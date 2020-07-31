@@ -70,15 +70,16 @@ Translations done so far:
 [Latvian](https://reversedfate.github.io/trust/),
 [Dutch](https://rayraz.github.io/trust/),
 [Finnish](https://1luap.github.io/trust/)
+[Danish](https://mok0.github.io/trust/)
 
-**Step 1)** Fork or download this repo    
+**Step 1)** Fork or download this repo
 (if you're forking it, be sure to make sure *your* repo is on a branch called `gh-pages`, so that GitHub can automatically generate a webpage for it!)
 
 **Step 2)** Translate the following files:
 
-`index.html` -- The title & social sharing text (a few words)    
-`words.html` -- All the words for the interactive itself (~3,300 words)    
-(optional) `notes/index.html` -- The footnotes (~1,100 words)    
+`index.html` -- The title & social sharing text (a few words)
+`words.html` -- All the words for the interactive itself (~3,300 words)
+(optional) `notes/index.html` -- The footnotes (~1,100 words)
 (optional) `peeps/index.html` -- The full credits (a few words)
 
 **Step 3)** Remember to test your translation! You can test things locally using [http-server](https://www.npmjs.com/package/http-server) or [MAMP](https://www.mamp.info/en/).
